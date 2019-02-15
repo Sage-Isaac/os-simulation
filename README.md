@@ -1,6 +1,6 @@
 # os-simulation
 The classes that I started with are just to give you an idea of what we're doing. 
-Not every method needs to be void, and it is up to you to determine what 
+Not every method needs to be void, and it is up to you to determine what you need.
 
 #### Alec
 * Develop a means for retrieving arguments from a command line. Argparse4j might
@@ -30,4 +30,4 @@ mutable and immutable metadata elements.
 * Bootstrapping the program such that the program cleanly starts and stops, without losing data.
 * Develop a means of parsing command line arguments and calling the proper methods from those calls.
 * Handle sudo requests.
-* Responsible for: Main
+* Responsible for: Main, Stability, Display & Execution
