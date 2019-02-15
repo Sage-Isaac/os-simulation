@@ -10,6 +10,10 @@ public class Cmd {
 
     }
 
+    public static void ll() {
+
+    }
+
     public static void mv() {
 
     }
@@ -39,6 +43,7 @@ public class Cmd {
     }
 
     public static void touch() {
+        // This should create the file and populate the file object metadata from Brandon's object.
 
     }
 
@@ -46,7 +51,11 @@ public class Cmd {
 
     }
 
-    public static void ll() {
+    public static void sudo() {
+
+    }
+
+    public static void parseArgs() {
 
     }
 }
