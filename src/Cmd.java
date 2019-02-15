@@ -55,7 +55,4 @@ public class Cmd {
 
     }
 
-    public static void parseArgs() {
-
-    }
 }
