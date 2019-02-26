@@ -21,7 +21,7 @@ mutable and immutable metadata elements.
 * Create methods that can convert a file to a filepath and vice versa.
 * Responsible for: SysObject(abstract), Folder, File, FileStructure
 
-#### Sage
+#### Sage - cooooool beans
 * Develop 12 essential functions by traversing Brandon's File System. 
 * Develop a way to run a command as "sudo" or a super user, with administrative rights given a password. 
 * Reponsible for: Cmd
